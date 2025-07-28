@@ -28,10 +28,13 @@ LinkedIn-Post-Generator/
 ├── few_shot.py         # Contains FewShotPosts class for tags/topics
 ├── post_generator.py   # Contains function to generate posts using API
 ├── requirements.txt    # All dependencies
+|-~~.env                #For the Groq Key
 └── README.md           # Project documentation
 ```
 
 ---
+![Alt Text](final_project.png)
+
 
 ## 🔑 Add API Key
 In this project, we used **Groq API** (easy to use & free).  
