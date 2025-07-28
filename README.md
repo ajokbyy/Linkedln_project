@@ -109,7 +109,7 @@ def generate_post(length, language, topic):
 
 ## 🚀 Deployment
 You can deploy this app on:
-- ✅ **Streamlit Cloud** → [https://share.streamlit.io](https://share.streamlit.io)
+- ✅ **Streamlit Cloud** → [https://share.streamlit.io](https://share.streamlit.io) For run - streamlit run main.py
 - ✅ **Render** or **Heroku** for free hosting
 
 ---
